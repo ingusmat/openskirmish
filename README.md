@@ -27,4 +27,4 @@ than what I'll come up with.
 Check it out, I bet it's fun. I don't have the link.  You can google it.
 
 ## What's next?
-check out the ['/docs/roadmap/index.md'](roadmap)
+check out the [roadmap](/docs/roadmap/index.md).
