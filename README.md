@@ -20,7 +20,7 @@ the sky's the limit.
 So far, this game is purely theoretical
 
 ## Isn't there a game called Open Combat?
-Yep, and to keep this game original, I ([ingusmat[(https://github.com/ingusmat)) have never looked at it, and probably never will. I know it's there.
+Yep, and to keep this game original, I ([ingusmat](https://github.com/ingusmat)) have never looked at it, and probably never will. I know it's there.
 It's likely similar. I want us (the Open Skirmish Community) to build our own anyway.  That said, it's probably better
 than what I'll come up with.
 
