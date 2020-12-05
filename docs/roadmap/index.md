@@ -1,4 +1,4 @@
-#Mission Statement
+# Mission Statement
 _Initial version, created 2020-12-05_
 
 ## Start small, build up
